@@ -1,0 +1,38 @@
+[
+  {
+    "name": "King Size Premium Cotton Bedsheet",
+    "price": "Rs. 2,500",
+    "details": "100% premium Egyptian cotton, king size (108x108 inches), wrinkle-resistant, available in white, beige, and navy blue.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Queen Size Satin Bedsheet",
+    "price": "Rs. 1,800",
+    "details": "Luxurious satin finish, queen size (90x100 inches), soft and smooth texture, available in rose pink, champagne gold, and silver.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Double Bed Printed Bedsheet",
+    "price": "Rs. 1,200",
+    "details": "Beautiful floral print, double bed size (90x100 inches), 100% cotton, comes with 2 matching pillow covers.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Single Bed Kids Bedsheet",
+    "price": "Rs. 800",
+    "details": "Fun cartoon prints for kids, single bed size (60x90 inches), soft cotton blend, machine washable.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Luxury Velvet Winter Bedsheet",
+    "price": "Rs. 3,500",
+    "details": "Premium velvet material, king size (108x108 inches), warm and cozy, perfect for winter. Available in maroon, dark green, and charcoal.",
+    "availability": "Limited Stock"
+  },
+  {
+    "name": "Budget Cotton Bedsheet Set",
+    "price": "Rs. 650",
+    "details": "Affordable cotton bedsheet, single bed size (60x90 inches), plain solid colors, includes 1 pillow cover.",
+    "availability": "In Stock"
+  }
+]
