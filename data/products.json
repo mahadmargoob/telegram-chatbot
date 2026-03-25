@@ -6,33 +6,57 @@
     "availability": "In Stock"
   },
   {
+    "name": "King Size Floral Print Bedsheet",
+    "price": "Rs. 2,000",
+    "details": "Vibrant floral prints, king size (108x108 inches), soft cotton blend, comes with 2 matching pillow covers.",
+    "availability": "In Stock"
+  },
+  {
     "name": "Queen Size Satin Bedsheet",
     "price": "Rs. 1,800",
     "details": "Luxurious satin finish, queen size (90x100 inches), soft and smooth texture, available in rose pink, champagne gold, and silver.",
     "availability": "In Stock"
   },
   {
-    "name": "Double Bed Printed Bedsheet",
+    "name": "Queen Size Checkered Bedsheet",
+    "price": "Rs. 1,500",
+    "details": "Modern checkered pattern, queen size (90x100 inches), breathable cotton, includes 2 pillow covers.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Double Bed Abstract Print Bedsheet",
     "price": "Rs. 1,200",
-    "details": "Beautiful floral print, double bed size (90x100 inches), 100% cotton, comes with 2 matching pillow covers.",
+    "details": "Beautiful abstract and geometric prints, double bed size (90x100 inches), easy-wash material, comes with 2 matching pillow covers.",
     "availability": "In Stock"
   },
   {
-    "name": "Single Bed Kids Bedsheet",
+    "name": "Single Bed Kids Bedsheet (Cartoon Print)",
     "price": "Rs. 800",
-    "details": "Fun cartoon prints for kids, single bed size (60x90 inches), soft cotton blend, machine washable.",
+    "details": "Fun cartoon prints for kids, single bed size (60x90 inches), soft cotton blend, machine washable, includes 1 pillow cover.",
     "availability": "In Stock"
   },
   {
-    "name": "Luxury Velvet Winter Bedsheet",
+    "name": "Luxury Velvet Winter Bedsheet Set",
     "price": "Rs. 3,500",
-    "details": "Premium velvet material, king size (108x108 inches), warm and cozy, perfect for winter. Available in maroon, dark green, and charcoal.",
+    "details": "Premium velvet material, king size (108x108 inches), warm and cozy, perfect for winter. Includes 2 velvet pillow covers. Available in maroon, dark green, and charcoal.",
     "availability": "Limited Stock"
   },
   {
-    "name": "Budget Cotton Bedsheet Set",
+    "name": "Budget Plain Cotton Bedsheet",
     "price": "Rs. 650",
-    "details": "Affordable cotton bedsheet, single bed size (60x90 inches), plain solid colors, includes 1 pillow cover.",
+    "details": "Affordable daily use cotton bedsheet, single bed size (60x90 inches), plain solid colors (red, blue, black), includes 1 pillow cover.",
+    "availability": "In Stock"
+  },
+  {
+    "name": "Bridal Special Embroidery Bedsheet",
+    "price": "Rs. 5,500",
+    "details": "Heavy embroidery and sequence work, king size (110x110 inches), bridal collection. Includes 2 pillow covers, 2 cushion covers, and 1 neck roll cover.",
+    "availability": "Made to Order (Takes 3 days)"
+  },
+  {
+    "name": "Waterproof Mattress Protector (King Size)",
+    "price": "Rs. 1,800",
+    "details": "100% waterproof, protects against spills and stains. Fits king size mattresses up to 12 inches deep. Terry cotton surface.",
     "availability": "In Stock"
   }
 ]
